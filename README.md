@@ -20,5 +20,5 @@ cd simple_puzzle_game
 ## 2 - Open the index.html file in your browser to start the game.
 ## 3 - Click on the numbered boxes to move them into the empty space and solve the puzzle.
 
-# Note
+# Note:
 Don’t focus too much on the design, haha! 😄
