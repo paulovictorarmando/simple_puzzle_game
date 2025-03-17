@@ -1,0 +1,6 @@
+index.html
+LICENSE
+README.md
+script.js
+style.css
+test.txt
